@@ -1,0 +1,15 @@
+.employee {
+    display: flex;
+    flex-direction: row;
+    min-width: 1300px;
+    margin: 4px
+}
+
+dl {
+    display: flex;
+    flex-direction: column;
+}
+
+mat-card {
+    display: flex;
+}
