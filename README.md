@@ -24,6 +24,7 @@ The edit and delete functionality work in this manner:
 ![Alt text](screenshot5.png?raw=true "Title")
 
 
+PS- Because I did not implement this in Angular setup, I have added another feature of adding employee details. :)
 All of my code is pushed in my repository.
 For edit and delete functionality, I have created a codepen link too: https://codepen.io/neekita-salvankar/full/PoorXeR
 
