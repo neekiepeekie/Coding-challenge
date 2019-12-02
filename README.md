@@ -21,8 +21,11 @@ The edit and delete functionality work in this manner:
 On clicking the edit button, this appears to edit/update the employee details:
 ![Alt text](screenshot3.png?raw=true "Title")
 
-On clicking the delete button, we are first asked for a confirmation after which it is deleted and a message it displayed with an updated employee list:
+On clicking the delete button, we are first asked for a confirmation:
+
 ![Alt text](screenshot4.png?raw=true "Title")
+
+After clicking over yes, and a confirmation message is displayed with an updated employee list:
 
 ![Alt text](screenshot5.png?raw=true "Title")
 
