@@ -25,7 +25,7 @@ On clicking the delete button, we are first asked for a confirmation:
 
 ![Alt text](screenshot4.png?raw=true "Title")
 
-After clicking over yes, and a confirmation message is displayed with an updated employee list:
+After clicking over yes, a confirmation message is displayed with an updated employee list:
 
 ![Alt text](screenshot5.png?raw=true "Title")
 
