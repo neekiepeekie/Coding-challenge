@@ -11,7 +11,7 @@ This is what it looked like:
 ![Alt text](screenshot1.png?raw=true "Title")
 
 
-For the Edit and Delete functionality, I used simple HTML5, CSS3, JavaScript, JQuery with Bootstrap (I am well versed with these technologies more than Angular and had a brief conversation with Jeff over the same)
+For the Edit and Delete functionality, I used simple HTML5, CSS3, JavaScript, JQuery with Bootstrap
 
 The UI looks like this:
 ![Alt text](screenshot2.png?raw=true "Title")
@@ -33,7 +33,4 @@ After clicking over yes, a confirmation message is displayed with an updated emp
 PS- I have added an extra feature of adding employee details. :)
 All of my code is pushed in my repository.
 For edit and delete functionality, I have created a codepen link too: https://codepen.io/neekita-salvankar/full/PoorXeR
-
-
-I hope you like this and give me an opportunity to interview with Mindex
 
